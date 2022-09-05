@@ -1,4 +1,4 @@
-# simple example that:
+# - simple example that:
 # - Connects to a WiFi Network defined by "ssid" and "password"
 # - Performs a GET request (loads a webpage)
 # - Queries the current time from a server
